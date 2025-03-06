@@ -1,0 +1,32 @@
+# 📊 Lead Management API
+
+Esta é uma API desenvolvida em **JavaScript** e **TypeScript** com **Express** e **PostgreSQL** para uma aplicação de marketing focada na gestão de leads. A API permite criar grupos, campanhas, gerar relatórios, métricas, realizar filtragem, pesquisa, paginação e muito mais.
+
+## 🚀 Funcionalidades
+
+- **CRUD de Leads:** Criar, ler, atualizar e deletar leads.
+- **Gestão de Grupos:** Organizar leads em grupos personalizados.
+- **Campanhas:** Criar e gerenciar campanhas de marketing.
+- **Relatórios e Métricas:** Gerar relatórios detalhados com métricas de desempenho.
+- **Filtros e Pesquisa:** Filtragem avançada e pesquisa por atributos dos leads.
+- **Paginação:** Suporte a paginação para grandes volumes de dados.
+- **Autenticação:** Implementação de autenticação com JWT.
+- **Validação:** Uso de bibliotecas para validação de dados.
+
+## 🛠 Tecnologias
+
+- **Linguagens:** JavaScript, TypeScript
+- **Framework:** Express
+- **Banco de Dados:** PostgreSQL
+- **ORM:** Prisma ou Sequelize (escolha a que preferir)
+- **Autenticação:** JSON Web Tokens (JWT)
+- **Validação:** Joi ou Zod
+- **Documentação:** Swagger
+
+## 📦 Instalação
+
+```bash
+git clone https://github.com/Raulz-dev/gestaoLeads.git
+cd gestaoLeads
+npm install
+```
