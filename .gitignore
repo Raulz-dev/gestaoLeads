@@ -1,0 +1,10 @@
+# Ignorar arquivos temporários
+*.log
+*.tmp
+
+# Ignorar pastas específicas
+/dist
+/node_modules
+
+# Ignorar arquivos sensíveis
+.env
